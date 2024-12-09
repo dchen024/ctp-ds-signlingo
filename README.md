@@ -1,6 +1,10 @@
 # SignLingo - ASL Learning Platform
 
+![Chicken Image](frontend/public/chicken1.png)
+
 SignLingo is an interactive American Sign Language (ASL) learning platform that uses real-time hand tracking and machine learning to help users learn and practice ASL letters.
+
+![ASL Chart](training/ASL_Alphabet.jpg)
 
 ## Features
 
